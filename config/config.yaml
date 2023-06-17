@@ -1,0 +1,19 @@
+Host: localhost:8102
+user: root
+password: root
+Logx:
+  LogName: ./collect.log
+  Level: debug
+  OutType: all
+  Formatter: txt
+
+Observe:
+  Host: http://localhost:5080
+  UserName: admin@qq.com
+  Password: '123456'
+  Org: default
+  Stream: server
+
+Collect:
+  MaxCount: 20
+  Path: ./demo.log
