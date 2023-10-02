@@ -3,10 +3,10 @@ package collect
 import (
 	"errors"
 	"fmt"
+	"github.com/dangweiwu/observelog/internal/collect/collectcfg"
+	"github.com/dangweiwu/observelog/internal/config"
+	"github.com/dangweiwu/observelog/internal/context"
 	"log"
-	"observelog/internal/collect/collectcfg"
-	"observelog/internal/config"
-	"observelog/internal/context"
 	"sync"
 	"testing"
 	"time"

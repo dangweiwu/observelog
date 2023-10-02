@@ -1,11 +1,11 @@
 package option
 
 import (
+	"github.com/dangweiwu/ginpro/pkg/yamconfig"
+	"github.com/dangweiwu/observelog/internal/collect"
+	"github.com/dangweiwu/observelog/internal/config"
+	"github.com/dangweiwu/observelog/internal/context"
 	"github.com/gin-gonic/gin"
-	"gs/pkg/yamconfig"
-	"observelog/internal/collect"
-	"observelog/internal/config"
-	"observelog/internal/context"
 )
 
 type RunServe struct {

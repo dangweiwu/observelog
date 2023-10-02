@@ -2,7 +2,7 @@ package config
 
 import (
 	"gitee.com/lambdang/pkg/logx"
-	"observelog/internal/collect/collectcfg"
+	"github.com/dangweiwu/observelog/internal/collect/collectcfg"
 )
 
 type Config struct {

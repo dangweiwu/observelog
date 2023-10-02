@@ -1,9 +1,9 @@
 package collect
 
 import (
+	"github.com/dangweiwu/observelog/internal/context"
 	"github.com/hpcloud/tail"
 	"go.uber.org/zap"
-	"observelog/internal/context"
 )
 
 type Tailx struct {

@@ -2,10 +2,10 @@ package collect
 
 import (
 	"fmt"
+	"github.com/dangweiwu/observelog/internal/collect/types"
+	"github.com/dangweiwu/observelog/internal/context"
 	"github.com/hpcloud/tail"
 	"go.uber.org/zap"
-	"observelog/internal/collect/types"
-	"observelog/internal/context"
 	"strings"
 	"sync/atomic"
 	"time"

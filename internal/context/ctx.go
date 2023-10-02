@@ -2,7 +2,7 @@ package context
 
 import (
 	"gitee.com/lambdang/pkg/logx"
-	"observelog/internal/config"
+	"github.com/dangweiwu/observelog/internal/config"
 )
 
 type AppCtx struct {
