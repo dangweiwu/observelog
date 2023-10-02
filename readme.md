@@ -6,7 +6,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/OpenObserve- 0.60 -gren">
 <img alt="Static Badge" src="https://img.shields.io/badge/issue- open -gren">
 <img alt="Static Badge" src="https://img.shields.io/badge/license- MIT-blue">
-<h4 align="center">简单、稳定的日志采集工具，OpenPbserve专用</h4>
+<h4 align="center">简单、稳定的日志采集工具，OpenObserve专用</h4>
 </p>
 
 ---
