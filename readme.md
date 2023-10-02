@@ -18,7 +18,7 @@
 使用本工具前请先安装[OpenObserve](https://openobserve.ai/)服务。
 ### 安装:
 
-```go install github.com/dangweiwu/```
+```go install github.com/dangweiwu/observelog```
 
 ### 配置文件
 config/logconfig.yaml
